@@ -1,0 +1,19 @@
+name: live_timer_markers_example
+description: A map with live count-up and countdown timer markers.
+publish_to: none
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ">=2.7.0 <3.0.0"
+  live_timer_markers:
+    path: ../
+
+dev_dependencies:
+  flutter_lints: ">=4.0.0 <7.0.0"
+
+flutter:
+  uses-material-design: true

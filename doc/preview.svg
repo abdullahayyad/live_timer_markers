@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img" aria-label="Illustration: timer badges on a map">
+<defs>
+  <filter id="s" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="1" stdDeviation="2" flood-color="#000" flood-opacity="0.28"/></filter>
+  <clipPath id="c"><rect width="720" height="300" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="720" height="300" fill="#EDEFE8"/>
+<path d="M330 120 L470 128 L480 200 L340 214 Z" fill="#D7EBCB"/>
+<path d="M560 0 L740 0 L740 90 C 680 100, 620 70, 560 40 Z" fill="#CFE3F3"/>
+<path d="M-10 210 C 150 190, 260 230, 420 200 S 640 170, 740 185" stroke="#fff" stroke-width="16" fill="none"/><path d="M140 -10 L 190 320" stroke="#fff" stroke-width="12" fill="none"/><path d="M470 -10 C 480 90, 500 180, 530 320" stroke="#fff" stroke-width="12" fill="none"/><path d="M-10 70 L 740 110" stroke="#fff" stroke-width="9" fill="none"/><path d="M300 -10 L 330 320" stroke="#fff" stroke-width="7" fill="none"/><path d="M600 -10 L 640 320" stroke="#fff" stroke-width="7" fill="none"/>
+<g font-family="Roboto, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#fff" style="font-variant-numeric: tabular-nums">
+<g filter="url(#s)"><path d="M192.5,150.0 H237.5 A16.0,16.0 0 0 1 237.5,182.0 H221.5 L215.0,190.0 L208.5,182.0 H192.5 A16.0,16.0 0 0 1 192.5,150.0 Z" fill="#FF980B"/></g><text x="215" y="172.0" text-anchor="middle">04:27</text><circle cx="215" cy="193" r="2.5" fill="#000" fill-opacity="0.22"/>
+<g filter="url(#s)"><path d="M382.5,72.0 H427.5 A16.0,16.0 0 0 1 427.5,104.0 H411.5 L405.0,112.0 L398.5,104.0 H382.5 A16.0,16.0 0 0 1 382.5,72.0 Z" fill="#E53935"/></g><text x="405" y="94.0" text-anchor="middle">15:02</text><circle cx="405" cy="115" r="2.5" fill="#000" fill-opacity="0.22"/>
+<g filter="url(#s)"><path d="M555.5,196.0 H600.5 A16.0,16.0 0 0 1 600.5,228.0 H584.5 L578.0,236.0 L571.5,228.0 H555.5 A16.0,16.0 0 0 1 555.5,196.0 Z" fill="#1E88E5"/></g><text x="578" y="218.0" text-anchor="middle">24:10</text><circle cx="578" cy="239" r="2.5" fill="#000" fill-opacity="0.22"/>
+</g>
+</g>
+</svg>

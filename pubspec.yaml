@@ -1,0 +1,27 @@
+name: live_timer_markers
+description: >-
+  Live count-up and countdown timer markers for google_maps_flutter. Shows
+  ticking labels like 04:27 on map markers, rendered efficiently and cached.
+version: 0.1.0
+repository: https://github.com/abdullahayyad/live_timer_markers
+issue_tracker: https://github.com/abdullahayyad/live_timer_markers/issues
+topics:
+  - google-maps
+  - maps
+  - markers
+  - timer
+  - countdown
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ">=2.7.0 <3.0.0"
+
+dev_dependencies:
+  flutter_lints: ">=4.0.0 <7.0.0"
+  flutter_test:
+    sdk: flutter
